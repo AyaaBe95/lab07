@@ -27,7 +27,7 @@ function questions(){
  let userInput = prompt("Do you love reading ? (yes / no ");
 
   if (userInput == "yes"){
-    alert("We wish you find what do want to read")}
+    alert("We wish you find what do you want to read")}
     else if (userInput == "no"){
       alert("Reading strengthens the mind,try to read a book to nourish your mind")
     }
